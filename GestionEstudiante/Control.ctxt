@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Control
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Control\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=event
+comment1.target=void\ AgregarEstudiante(javafx.event.ActionEvent)
+comment2.params=event
+comment2.target=void\ BuscarEstudiante(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ ListarEstudiante(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ Salir(javafx.event.ActionEvent)
+comment5.params=
+comment5.target=void\ initialize()
+numComments=6
